@@ -1,0 +1,420 @@
+# Copyright (C) 2019 make-sense
+# This file is distributed under the same license as the make-sense package.
+msgid ""
+msgstr ""
+"Project-Id-Version: make-sense\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin.php:16
+msgid "One step - accessible"
+msgstr ""
+
+#: ../includes/admin.php:17
+msgid "Setup"
+msgstr ""
+
+#: ../includes/admin.php:18
+msgid "General"
+msgstr ""
+
+#: ../includes/admin.php:19
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/admin.php:20
+msgid "Welcome..."
+msgstr ""
+
+#: ../includes/admin.php:21
+msgid "Choose menu position:"
+msgstr ""
+
+#: ../includes/admin.php:22
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/admin.php:23
+msgid "Accessibility Menu Configuration"
+msgstr ""
+
+#: ../includes/admin.php:24
+msgid "Enable Make-Sense on your site"
+msgstr ""
+
+#: ../includes/admin.php:25
+msgid "Accessibility Statement:"
+msgstr ""
+
+#: ../includes/admin.php:26
+msgid "Change default Accessibility Statement by including information about your company:"
+msgstr ""
+
+#: ../includes/admin.php:27
+msgid "Support Email"
+msgstr ""
+
+#: ../includes/admin.php:28
+msgid "Email address"
+msgstr ""
+
+#: ../includes/admin.php:29
+msgid "Support Contact Name"
+msgstr ""
+
+#: ../includes/admin.php:30
+msgid "Contact Name"
+msgstr ""
+
+#: ../includes/admin.php:31
+msgid "Support Phone Number"
+msgstr ""
+
+#: ../includes/admin.php:32
+msgid "Phone number"
+msgstr ""
+
+#: ../includes/admin.php:33
+msgid "Custom Statement URL"
+msgstr ""
+
+#: ../includes/admin.php:34
+msgid "Statement URL"
+msgstr ""
+
+#: ../includes/admin.php:35
+msgid "Select availible languages for Make-Sense accessibility menu:"
+msgstr ""
+
+#: ../includes/admin.php:36
+msgid "Select languages"
+msgstr ""
+
+#: ../includes/admin.php:37
+msgid "English"
+msgstr ""
+
+#: ../includes/admin.php:38
+msgid "Russian"
+msgstr ""
+
+#: ../includes/admin.php:39
+msgid "Hebrew"
+msgstr ""
+
+#: ../includes/admin.php:40
+msgid "Spanish"
+msgstr ""
+
+#: ../includes/admin.php:41
+msgid "License information"
+msgstr ""
+
+#: ../includes/admin.php:42
+msgid "Current License plan: "
+msgstr ""
+
+#: ../includes/admin.php:43
+msgid "Your current License plan is "
+msgstr ""
+
+#: ../includes/admin.php:44
+msgid "\"Audit\""
+msgstr ""
+
+#: ../includes/admin.php:45
+msgid ". On this plan you are limited to one domain and 100 pages. You don't have an access to Accessibility patch	editor,	technical support and archive storage. To get them and other benefits you can upgrade to other "
+msgstr ""
+
+#: ../includes/admin.php:46
+msgid "Other Accessibility Packages."
+msgstr ""
+
+#: ../includes/admin.php:47
+msgid "Terms of Use"
+msgstr ""
+
+#: ../includes/admin.php:48
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../includes/admin.php:49
+msgid "Dashboard view"
+msgstr ""
+
+#: ../includes/admin.php:50
+msgid "Save"
+msgstr ""
+
+#: ../includes/admin.php:51
+msgid "Accessibility menu on your site will be shown in"
+msgstr ""
+
+#: ../includes/admin.php:52
+msgid "corner"
+msgstr ""
+
+#: ../includes/admin.php:53
+msgid "Make-Sense plugin will run on your site"
+msgstr ""
+
+#: ../includes/admin.php:54
+msgid "Make-Sense plugin will be disabled on your site"
+msgstr ""
+
+#: ../includes/admin.php:55
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/admin.php:56
+msgid "Register"
+msgstr ""
+
+#: ../includes/admin.php:57
+msgid "Completed"
+msgstr ""
+
+#: ../includes/admin.php:58
+msgid "First name"
+msgstr ""
+
+#: ../includes/admin.php:59
+msgid "Last name"
+msgstr ""
+
+#: ../includes/admin.php:60
+msgid "Email"
+msgstr ""
+
+#: ../includes/admin.php:61
+msgid "Phone"
+msgstr ""
+
+#: ../includes/admin.php:62
+msgid "Company name"
+msgstr ""
+
+#: ../includes/admin.php:63
+msgid "Domain"
+msgstr ""
+
+#: ../includes/admin.php:64
+msgid "Select existing domain"
+msgstr ""
+
+#: ../includes/admin.php:65
+msgid "Social login"
+msgstr ""
+
+#: ../includes/admin.php:66
+msgid "OR"
+msgstr ""
+
+#: ../includes/admin.php:67
+msgid "Add new domain"
+msgstr ""
+
+#: ../includes/admin.php:68
+msgid "Next"
+msgstr ""
+
+#: ../includes/admin.php:69
+msgid "Previous"
+msgstr ""
+
+#: ../includes/admin.php:70
+msgid "Confirm"
+msgstr ""
+
+#: ../includes/admin.php:71
+msgid "To continue please select an existing domain or add a new one"
+msgstr ""
+
+#: ../includes/admin.php:72
+msgid "Continue"
+msgstr ""
+
+#: ../includes/admin.php:73
+msgid "Go to the dashboard"
+msgstr ""
+
+#: ../includes/admin.php:74
+msgid "To begin using Make-Sense for WP on your site, please sign in with your Google or Facebook account below. Make-Sense will not have access to your third-party settings or profile; we just ask you to sign in to verify your identity."
+msgstr ""
+
+#: ../includes/admin.php:75
+msgid "Please fill in the fields below with your company name, phone number, and domain name. The domain name should match the website where your plugin will be installed. Please verify the accuracy of the domain that you enter before submitting, as this cannot easily be changed later, although you can add more domains in the future."
+msgstr ""
+
+#: ../includes/admin.php:76
+msgid ""
+"Welcome back!!!\n"
+"\n"
+"Please select one of registered domains or type new one to add"
+msgstr ""
+
+#: ../includes/admin.php:79
+msgid ""
+"Welcome back!!!\n"
+"\n"
+"To continue please specify the domain"
+msgstr ""
+
+#: ../includes/admin.php:82
+msgid "Google"
+msgstr ""
+
+#: ../includes/admin.php:83
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/admin.php:84
+msgid ""
+"Processing request, this should take couple of seconds\n"
+"\n"
+"Thank you for your patience."
+msgstr ""
+
+#: ../includes/admin.php:87
+msgid ""
+"Congratulations! You may now begin using the Make-Sense for WP plugin on your website. You will now have access to your dashboard, which will populate with data and site details once you start using the plugin. Please allow 24-48 hours for the dashboard to begin to populate after the plugin is enabled.\n"
+"\n"
+"First, go to Make-Sense for WP in your WP dashboard menu, then go to General. You’ll need to check a box to enable the plugin on your site. In the settings, you’ll also be able to modify the placement of the menu on the browser window, set menu languages and update your digital accessibility statement.\n"
+"			\n"
+"The plugin addresses compliance issues that can be fixed automatically by implementing an overlay on your site. Automatic updates and the Make-Sense menu will be viewable on the browser side for your users."
+msgstr ""
+
+#: ../includes/admin.php:93
+msgid "Please use international phone number format"
+msgstr ""
+
+#: ../includes/admin.php:94
+msgid "Country code with leading \"+\""
+msgstr ""
+
+#: ../includes/admin.php:95
+msgid "National destination code"
+msgstr ""
+
+#: ../includes/admin.php:96
+msgid "Subscriber number"
+msgstr ""
+
+#: ../includes/admin.php:97
+msgid "Example"
+msgstr ""
+
+#: ../includes/admin.php:98
+msgid "This field is required"
+msgstr ""
+
+#: ../includes/admin.php:99
+msgid "Incorrect value"
+msgstr ""
+
+#: ../includes/admin.php:100
+msgid "Unable to check"
+msgstr ""
+
+#: ../includes/admin.php:101
+msgid "Error"
+msgstr ""
+
+#: ../includes/admin.php:102
+msgid "Registration failed"
+msgstr ""
+
+#: ../includes/admin.php:103
+msgid "Back-office users"
+msgstr ""
+
+#: ../includes/admin.php:104
+msgid "Or specify a URL to your custom Accessibility Statement:"
+msgstr ""
+
+#: ../includes/admin.php:105
+msgid "package"
+msgstr ""
+
+#: ../includes/admin.php:106
+msgid "user"
+msgstr ""
+
+#: ../includes/admin.php:107
+msgid "users"
+msgstr ""
+
+#: ../includes/admin.php:108
+msgid "Checkmark"
+msgstr ""
+
+#: ../includes/admin.php:109
+msgid "Domains/Up to Pages"
+msgstr ""
+
+#: ../includes/admin.php:110
+msgid "ISO 27001 Security Information certified"
+msgstr ""
+
+#: ../includes/admin.php:111
+msgid "WCAG 2.0 AA and WCAG 2.1 compliance"
+msgstr ""
+
+#: ../includes/admin.php:112
+msgid "End-user accessibility menu"
+msgstr ""
+
+#: ../includes/admin.php:113
+msgid "Online dashboard"
+msgstr ""
+
+#: ../includes/admin.php:114
+msgid "Accessibility patch editor"
+msgstr ""
+
+#: ../includes/admin.php:115
+msgid "Archive storage: 1 month"
+msgstr ""
+
+#: ../includes/admin.php:116
+msgid "Technical support"
+msgstr ""
+
+#: ../includes/admin.php:117
+msgid "Unique user support: 25 per second"
+msgstr ""
+
+#: ../includes/admin.php:118
+msgid "Top-Left"
+msgstr ""
+
+#: ../includes/admin.php:119
+msgid "Top-Right"
+msgstr ""
+
+#: ../includes/admin.php:120
+msgid "Bottom-Left"
+msgstr ""
+
+#: ../includes/admin.php:121
+msgid "Bottom-Right"
+msgstr ""
+
+#: ../includes/admin.php:122
+msgid "none"
+msgstr ""
+
+#: ../includes/admin.php:123
+msgid "zero"
+msgstr ""
+
+#: ../includes/admin.php:124
+msgid "Your token is expired. Please re-login."
+msgstr ""

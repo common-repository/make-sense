@@ -1,0 +1,24 @@
+a .mksense-dashboard-link {
+	background-image: url(../images/external_link_16x16.png); 
+	background-position: right; 
+	background-repeat: no-repeat; 
+	padding-right: 20px;
+}
+a:hover .mksense-dashboard-link, 
+a:focus .mksense-dashboard-link {
+	background-image: url(../images/external_link_16x16.over.png); 
+}
+
+.dashicons-mksense-menu { 
+	background-image: url(../images/ms_menu_icon.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 26px;
+	display: inline-block;
+}
+li:hover .dashicons-mksense-menu {
+	background-image: url(../images/ms_menu_icon_over.svg);
+}
+li.wp-has-current-submenu .dashicons-mksense-menu {
+	background-image: url(../images/ms_menu_icon_selected.svg);
+}
